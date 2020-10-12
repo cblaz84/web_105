@@ -1,0 +1,65 @@
+.My-Color-Theme-1-rgba { color: rgba(74, 50, 112, 1); }
+.My-Color-Theme-2-rgba { color: rgba(205, 182, 242, 1); }
+.My-Color-Theme-3-rgba { color: rgba(159, 109, 240, 1); }
+.My-Color-Theme-4-rgba { color: rgba(95, 84, 112, 1); }
+.My-Color-Theme-5-rgba { color: rgba(125, 85, 189, 1); }
+
+font-family: 'Roboto Mono', monospace;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Noto Serif', serif;
+header{
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    margin-bottom: 20px;
+    font-size: 90px;
+}
+footer{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+}
+nav{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    margin-bottom: 30px;
+}
+figcaption{
+    font-family: 'Noto Serif', serif;
+}
+.button a{
+    text-decoration: none;
+    background: rgb(125, 85, 189, 1);
+    border: 3px solid ;
+    border-radius: 20px;
+    padding: 5px 25px;
+    margin: 10px 40px;
+}
+.button a:hover{
+    border: 3px solid rgba(125, 85, 189, 1);
+    color:  rgba(205, 182, 242, 1)
+}
+.container{
+    background: rgba(205, 182, 242, 1);
+    width: 80%;
+    max-width: 1000px;
+    margin: 10px auto;
+}
+body{
+    background: rgba(74, 50, 112, 1);
+}
+h1{
+    text-align: center;
+    color: rgba(74, 50, 112, 1);
+}
+img{
+    width: 300px;
+    height: 200px;
+}
+p{
+    line-height: 40px;
+}
+div{
+    padding: 20px;
+}
+img{
+    width: 30%;
+}
